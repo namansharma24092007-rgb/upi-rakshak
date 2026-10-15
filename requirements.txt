@@ -1,3 +1,5 @@
-flask>=3.0
-scikit-learn
+
+flask
+gunicorn
 numpy
+scikit-learn
